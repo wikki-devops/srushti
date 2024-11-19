@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+header.sticky.sticky-active [data-header-hover=light] {
+    background-color: var(--beige-color) !important;
+}
+
+body {
+    background-color: transparent !important;
+}

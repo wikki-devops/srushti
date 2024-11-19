@@ -1,0 +1,15 @@
+header .navbar-brand img {
+    max-height: 70px !important;
+}
+
+header .navbar-brand {
+    padding: 10px !important;
+}
+
+.navbar .navbar-nav .nav-link {
+    font-size: 18px !important;
+}
+
+.navbar-toggler-line {
+    background: white !important;
+}

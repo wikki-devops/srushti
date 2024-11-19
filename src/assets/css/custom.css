@@ -20,6 +20,12 @@ footer .footer-logo img {
     max-height: 80px !important;
 }
 
+.page-title-extra-large h1 {
+    font-size: 50px !important;
+    line-height: 4.7rem !important;
+}
+
+
 
 
 @media only screen and (max-width: 600px) {

@@ -14,4 +14,11 @@ export class HomeComponent {
     { icons: '5.png', title: 'State-of-the-Art IVF Lab ', content: 'A cutting-edge IVF lab that ensures ideal embryo development and a highly successful cryopreservation program.' },
     { icons: '6.png', title: 'Experienced Team & Continuous Development', content: 'A highly trained team staying ahead with the latest fertility treatments and diagnostics.' },
   ];
+  specialization: any[] = [
+    { images: 'https://dummyimage.com/500x500/wwww/aaa', title: 'Assisted Reproductive Techniques', content: 'Laparoscopy | Hysteroscopy | Myomectomy | Conservative Surgery' },
+    { images: 'https://dummyimage.com/500x500/wwww/aaa', title: 'Reproductive Surgeries', content: 'Egg Freezing | Embryo Freezing | Sperm Freezing' },
+    { images: 'https://dummyimage.com/500x500/wwww/aaa', title: 'Genetics & Preservation', content: 'IVF | Genetic Screening | Fertility Preservation' },
+    { images: 'https://dummyimage.com/500x500/wwww/aaa', title: 'Maternity & Childcare', content: 'Stress Relief | Hormonal Balance | Fertility Enhancement' },
+    { images: 'https://dummyimage.com/500x500/wwww/aaa', title: 'Aesthetics', content: 'IVF Failure Solutions | PCOS Management | Azoospermia Treatment' },
+  ];
 }

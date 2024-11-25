@@ -8,6 +8,8 @@ import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './pages/home/home.component';
 import { PcosComponent } from './pages/pcos/pcos.component';
 import { CtaComponent } from './widget/cta/cta.component';
+import { IvfPackageComponent } from './ivf-package/ivf-package.component';
+import { AboutComponent } from './pages/about/about.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { CtaComponent } from './widget/cta/cta.component';
     FooterComponent,
     HomeComponent,
     PcosComponent,
-    CtaComponent
+    CtaComponent,
+    IvfPackageComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,
